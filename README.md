@@ -1,7 +1,7 @@
 # Project Setup and Running Instructions
 
 ## 1. Rename `sample.env` to `.env`
-
+### server/sample.env
 To configure the environment variables for the project, you need to rename the `sample.env` file to `.env`. This file contains environment-specific settings that are necessary for running the project.
 
 
