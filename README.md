@@ -21,7 +21,7 @@ git clone https://github.com/Karansiddiqui/Subscription-Web-App.git
 ### 1. Set Up the Client
 open terminal
 ``` bash
-cd client
+cd .\client\    
 
 npm install
 
@@ -31,7 +31,7 @@ npm run dev
 ### 2. Set Up the Server
 open terminal
 ``` bash
-cd server
+cd .\server\
 
 npm install
 
@@ -39,3 +39,13 @@ npm run dev
 
 ```
 
+## Screenshots
+
+![Signin](screenshot/image.png)
+![SignUp](screenshot/image1.png)
+![new user](screenshot/image2.png)
+![Subscription Plan](screenshot/image3.png)
+![Payment Page](screenshot/image4.png)
+![Articles](screenshot/image5.png)
+![User Plan](screenshot/image6.png)
+![Upgrade option](screenshot/image7.png)
