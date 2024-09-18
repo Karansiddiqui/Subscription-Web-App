@@ -11,6 +11,7 @@ export const ArticlesPlan = () => {
   const navigate = useNavigate();
   const [subscription, setSubscription] = useState(null);
 
+
   useEffect(() => {
     fetchPrices();
   }, []);
